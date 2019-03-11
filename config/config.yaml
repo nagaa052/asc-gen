@@ -1,0 +1,8 @@
+input:
+    github:
+        organization: OrgA
+output:
+    title: My Repository List
+    out:
+        local:
+            filepath: ./output.md
